@@ -4,7 +4,7 @@ void main()
 int start,end;
 printf("enter the values");
 scanf("%d%d",&start,&end);
-for(i=start;i<=end;i++)
+for(i=start;i<=end;start++)
 {
 even=i%2;
 if(even==0)
