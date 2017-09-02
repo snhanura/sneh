@@ -4,7 +4,7 @@ void main()
 int i start,end;
 printf("enter the values");
 scanf("%d%d"&start,&end);
-for(i=start;i<end/2;++i)
+for(i=start;i<end/2;++start)
 {
 if(n%i==0)
 {
