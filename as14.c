@@ -4,7 +4,7 @@ void main()
 int start,end;
 printf("enter the values");
 scanf("%d%d",&start,&end);
-for(i=start;i<=end;i++)
+for(i=start;i<=end;start++)
 {
 odd=i%2;
 if(odd!=0)
